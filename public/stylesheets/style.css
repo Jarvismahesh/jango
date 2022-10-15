@@ -1,0 +1,16 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+h4 {
+  color: #00B7FF;
+}
+td
+{
+  font: 20px "Sofia", sans-serif;
+}
+
+div{
+  float: left;
+}
